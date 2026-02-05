@@ -7,7 +7,8 @@
     "cliu/cliu.php": "",
     "skunk-environment-switcher/environment-switcher.php": "",
     "preserve-mainwp/preserve-mainwp.php": "https://en-ca.wordpress.org/plugins/preserve-mainwp/",
-    "better-wp-security/better-wp-security.php": "https://wordpress.org/plugins/better-wp-security/"
+    "better-wp-security/better-wp-security.php": "https://wordpress.org/plugins/better-wp-security/",
+    "wordfence/wordfence.php": "https://wordpress.org/plugins/wordfence/"
   },
   "staging_only": {
     "password-protected/password-protected.php": "",
