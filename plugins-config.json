@@ -1,0 +1,18 @@
+{
+  "always_active": [
+    "cloudflare/cloudflare.php",
+    "cloudguard/cloudguard.php",
+    "better-wp-security/better-wp-security.php"
+  ],
+  "staging_only": [
+    "password-protected/password-protected.php",
+    "show-current-template/show-current-template.php",
+    "catch-ids/catch-ids.php",
+    "convert-post-types/convert-post-types.php",
+    "enable-jquery-migrate-helper/enable-jquery-migrate-helper.php",
+    "child-theme-wizard/child-theme-wizard.php"
+  ],
+  "production_only": [
+    "broken-link-checker/broken-link-checker.php"
+  ]
+}
