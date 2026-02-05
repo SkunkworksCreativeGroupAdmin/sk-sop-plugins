@@ -1,6 +1,6 @@
 # Skunkworks S.O.P. Plugins Configuration
 
-This repository contains the centralized configuration for the **Skunkworks S.O.P. Plugins** MU-plugin. It dictates which plugins are activated or deactivated across different site environments (Staging, Production, and Archive).
+This repository contains [the centralized configuration](https://github.com/SkunkworksCreativeGroupAdmin/sk-sop-plugins/blob/main/plugins-config.json) for the **Skunkworks S.O.P. Plugins** MU-plugin. It dictates which plugins are activated or deactivated across different site environments (Staging, Production, and Archive).
 
 ## 🚀 How it Works
 
