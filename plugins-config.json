@@ -3,6 +3,7 @@
     "aryo-activity-log/aryo-activity-log.php": "https://wordpress.org/plugins/aryo-activity-log/",
     "cloudflare/cloudflare.php": "https://wordpress.org/plugins/cloudflare/",
     "cloudguard/cloudguard.php": "https://wordpress.org/plugins/cloudguard/",
+    "mainwp-child/mainwp-child.php": "https://en-ca.wordpress.org/plugins/mainwp-child/",
     "better-wp-security/better-wp-security.php": "https://wordpress.org/plugins/better-wp-security/"
   },
   "staging_only": {
