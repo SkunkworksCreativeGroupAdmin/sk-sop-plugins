@@ -5,6 +5,7 @@
     "cloudguard/cloudguard.php": "https://wordpress.org/plugins/cloudguard/",
     "mainwp-child/mainwp-child.php": "https://en-ca.wordpress.org/plugins/mainwp-child/",
     "cliu/cliu.php": "",
+    "skunk-environment-switcher/environment-switcher.php": "",
     "better-wp-security/better-wp-security.php": "https://wordpress.org/plugins/better-wp-security/"
   },
   "staging_only": {
