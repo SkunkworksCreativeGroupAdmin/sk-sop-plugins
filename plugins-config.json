@@ -3,10 +3,10 @@
     "aryo-activity-log/aryo-activity-log.php": "https://wordpress.org/plugins/aryo-activity-log/",
     "cloudflare/cloudflare.php": "https://wordpress.org/plugins/cloudflare/",
     "cloudguard/cloudguard.php": "https://wordpress.org/plugins/cloudguard/",
-    "mainwp-child/mainwp-child.php": "https://en-ca.wordpress.org/plugins/mainwp-child/",
+    "mainwp-child/mainwp-child.php": "https://wordpress.org/plugins/mainwp-child/",
     "cliu/cliu.php": "",
     "skunk-environment-switcher/environment-switcher.php": "",
-    "preserve-mainwp/preserve-mainwp.php": "https://en-ca.wordpress.org/plugins/preserve-mainwp/",
+    "preserve-mainwp/preserve-mainwp.php": "https://wordpress.org/plugins/preserve-mainwp/",
     "better-wp-security/better-wp-security.php": "https://wordpress.org/plugins/better-wp-security/"
   },
   "staging_only": {
