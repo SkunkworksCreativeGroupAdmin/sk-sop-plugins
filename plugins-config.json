@@ -7,7 +7,6 @@
     "cliu/cliu.php": "",
     "skunk-environment-switcher/environment-switcher.php": "",
     "preserve-mainwp/preserve-mainwp.php": "https://en-ca.wordpress.org/plugins/preserve-mainwp/",
-    "better-wp-security/better-wp-security.php": "https://wordpress.org/plugins/better-wp-security/",
     "wordfence/wordfence.php": "https://wordpress.org/plugins/wordfence/"
   },
   "staging_only": {
@@ -17,5 +16,8 @@
     "catch-ids/catch-ids.php": "https://wordpress.org/plugins/catch-ids/",
     "broken-link-checker/broken-link-checker.php": "https://wordpress.org/plugins/broken-link-checker/"
   },
-  "production_only": {}
+  "production_only": {
+    "better-wp-security/better-wp-security.php": "https://wordpress.org/plugins/better-wp-security/",
+    "google-site-kit/google-site-kit.php": "https://wordpress.org/plugins/google-site-kit/"
+  }
 }
