@@ -18,6 +18,7 @@
   },
   "production_only": {
     "better-wp-security/better-wp-security.php": "https://wordpress.org/plugins/better-wp-security/",
-    "google-site-kit/google-site-kit.php": "https://wordpress.org/plugins/google-site-kit/"
+    "google-site-kit/google-site-kit.php": "https://wordpress.org/plugins/google-site-kit/",
+    "simple-cloudflare-turnstile/simple-cloudflare-turnstile.php": "https://en-ca.wordpress.org/plugins/simple-cloudflare-turnstile/"
   }
 }
