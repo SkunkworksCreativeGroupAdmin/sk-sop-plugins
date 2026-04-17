@@ -6,8 +6,7 @@
     "mainwp-child/mainwp-child.php": "https://wordpress.org/plugins/mainwp-child/",
     "cliu/cliu.php": "",
     "skunk-environment-switcher/environment-switcher.php": "",
-    "preserve-mainwp/preserve-mainwp.php": "https://en-ca.wordpress.org/plugins/preserve-mainwp/",
-    "wordfence/wordfence.php": "https://wordpress.org/plugins/wordfence/"
+    "preserve-mainwp/preserve-mainwp.php": "https://en-ca.wordpress.org/plugins/preserve-mainwp/"
   },
   "staging_only": {
     "password-protected/password-protected.php": "",
@@ -19,6 +18,7 @@
   "production_only": {
     "better-wp-security/better-wp-security.php": "https://wordpress.org/plugins/better-wp-security/",
     "google-site-kit/google-site-kit.php": "https://wordpress.org/plugins/google-site-kit/",
-    "simple-cloudflare-turnstile/simple-cloudflare-turnstile.php": "https://en-ca.wordpress.org/plugins/simple-cloudflare-turnstile/"
+    "simple-cloudflare-turnstile/simple-cloudflare-turnstile.php": "https://en-ca.wordpress.org/plugins/simple-cloudflare-turnstile/",
+    "wordfence/wordfence.php": "https://wordpress.org/plugins/wordfence/"
   }
 }
